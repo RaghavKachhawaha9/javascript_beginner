@@ -13,3 +13,11 @@
 2. Should be a meaningful name. 
 3. Cannot start with a number. (1name)=> not allowed
 4. Cannot contain a space or a hyphen
+5. You can use camel notation. Eg. firstName
+6. Are case-sensitive 
+***  
+### 2 Ways of declaring variables
+***
+1. let firstName, lastName; // they both are undefined
+2. let firstName= 'John' , lastName= 'Wick';
+3. Modern best practice is to declare both the variables on separate lines
