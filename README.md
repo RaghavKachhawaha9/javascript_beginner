@@ -11,7 +11,7 @@ You can find the video tutorial on YouTube: [JavaScript Tutorial for Beginners: 
 ## Installation
 To use the code in this repository, you need to have Node.js installed on your system. Follow the steps below to set up the project:
 
-1. Clone this repository to your local machine  
+1. Clone this repository to your local machine using 'git clone https://github.com/RaghavKachhawaha9/javascript_beginner.git'
 2. Navigate to the project directory.
 
 Note: If you don't have Node.js installed, you can download it from the official website: [Node.js](https://nodejs.org/en/download)
