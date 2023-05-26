@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains code and materials related to the YouTube video tutorial : JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
+This repository contains code and materials related to the YouTube video tutorial : **JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour**
 
 ## Video Link
 
