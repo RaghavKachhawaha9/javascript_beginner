@@ -11,4 +11,4 @@
 6. We can use // in javascript,to add comments. This will help other developers to understand the code.
 7. Here, 'Hello world' is a string, string is a sequence of characters.
 8. After running the file on live server. Go to browser>>inspect>>console and we can see the Hello world message.
-   ![plot](img\console.png)
+   ![plot](https://github.com/RaghavKachhawaha9/javascript_beginner/blob/main/02_javascript_intro/img/console.PNG)
