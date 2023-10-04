@@ -10,13 +10,16 @@
 ### Rules for naming variables in javascript
 ***
 1. Cannot be a reserved keyword.
-2. Should be a meaningful name. 
+2. Should be a meaningful name. (DESCRIPTIVE)
 3. Cannot start with a number. (1name)=> not allowed
 4. Cannot contain a space or a hyphen
 5. You can use camel notation. Eg. firstName
 6. Are case-sensitive 
+7. **let _firstName** and **let $firstName** is allowed.
+8. Avoid using first letter of variable as capital letter. These kind of variable names are used for specifice use case in js which object-oriented programming.
+9. vairables in upper-case are used for constants eg. let PI=3.1415;
 ***  
-### 2 Ways of declaring variables
+### 2 Ways of declaring multiple variables
 ***
 1. let firstName, lastName; // they both are undefined
 2. let firstName= 'John' , lastName= 'Wick';
