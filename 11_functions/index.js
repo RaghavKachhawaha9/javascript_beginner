@@ -37,6 +37,7 @@ function square(num){
     return num*num;
 }
 
+
 let number = square(3)
 console.log(number) // 9
 //creating a variable to call a function is not necessary 
